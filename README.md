@@ -8,7 +8,7 @@ Exercise #2 Rolling a die:
 Simulate N rolls of a die. Show the evolution of the histogram of extracted values at each roll. Check that for 𝑵→∞ the probability of finding each face is 1/6. Simulate an unfair die.
 
 Exercise #3 Monte Carlo:
-Calculate 𝝅using the Monte Carlo integration method. How many iterations are needed to get 10 significant digits of 𝝅?
+Calculate 𝝅 using the Monte Carlo integration method. How many iterations are needed to get 10 significant digits of 𝝅?
 
 Exercise #4 Monty Hall:
 Suppose you're on a game show, and you're given the choice of three doors. Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat.
