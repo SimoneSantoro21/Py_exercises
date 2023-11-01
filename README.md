@@ -21,4 +21,6 @@ Exercise #6 Polymer structure 2D:
 Simulate a simple polymer in the approximation of non-interacting beads connected by rigid bonds through random walk. Evaluate
 mean R and mean R squared.
 
+Exercise #6 Simulation of a projectile on Earth:
+Simulate the first 10 seconds of the dynamics of a projectile tossed from a given heigh H, with a given initial velocity v0 = (v0_x, v0_y). (from https://github.com/klyshko/md_python/blob/master/Lecture.ipynb)
 
