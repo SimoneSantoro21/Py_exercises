@@ -29,5 +29,3 @@ yg = gaussian(xg, mean, std)
 plt.plot(xg, yg, color="blue")
 
 plt.show()
-
-# let's see if git works
