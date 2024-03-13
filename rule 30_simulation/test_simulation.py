@@ -10,3 +10,9 @@ def test_generated_only_one_alive():
     state = func.generate_state()
     num_alive = sum(1 for i in state if i == '0')
     assert num_alive == 1
+
+def test_newstate_dimension_equal_to_oldstate():
+    "Testing that the evolved state has the same dimension as the old state"
+    old_state = func.generate_state()
+    new_state = func.evolve(old_state)
+    assert old_state.len() == new_state.len()
